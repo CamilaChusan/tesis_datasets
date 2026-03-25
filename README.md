@@ -119,7 +119,7 @@ datasets/
 
 ## 🔗 Enlaces
 
-- 🌐 **Sistema en producción:** [FactCheckToolEC](http://149.130.164.117/verificacion-cientifica)
+- 🌐 **Sistema en producción:** FactCheckToolEC: http://149.130.164.117/verificacion-cientifica
 
 ---
 
